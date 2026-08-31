@@ -1,0 +1,7 @@
+{
+  "name": "Ali International Travels & Tours / Ali Communication",
+  "description": "Travel Agency, Online Documentation, Digital Payment and Communication Services in Rajbiraj, Saptari, Nepal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
